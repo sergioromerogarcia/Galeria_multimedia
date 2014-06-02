@@ -17,7 +17,11 @@ import android.view.View.OnLongClickListener;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
-
+/**
+ * 
+ * @author sergioromero
+ *
+ */
 public class MainActivity extends Activity {
     // Variable que utilizamos para indicar que hemos realizado la fotografia
     private static int TAKE_PICTURE = 1;
